@@ -2,7 +2,7 @@ hi i'm ashley.
 
 I am a software engineer at https://github.com/Stodge-Inc. I am also a game developer in my free time.
 
-Reach out to me: *phxvyper at pm dot me*. My pronouns are she/her or they/them.
+Reach out to me: *dresswithpockets at pm dot me*. My pronouns are she/her or they/them.
 
 <!--
 **phxvyper/phxvyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
