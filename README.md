@@ -5,7 +5,7 @@ I am a software engineer at https://github.com/Stodge-Inc. I am also a game deve
 Reach out to me: *dresswithpockets at pm dot me*. My pronouns are she/her or they/them.
 
 <!--
-**phxvyper/phxvyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
