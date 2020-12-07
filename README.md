@@ -1,6 +1,6 @@
 hi i'm ashley.
 
-I am a software engineer at https://github.com/Stodge-Inc. I am also a game developer in my free time.
+I am a game developer.
 
 Reach out to me: *dresswithpockets at pm dot me*. My pronouns are she/her or they/them.
 
